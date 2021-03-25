@@ -1,5 +1,4 @@
 # scope-sample
 
-contact us sayfasındaki bilgiler json olarak loglandı fakat eksiklikler var.
-
-### yarn start komutu ile proje çalışır
+React localization sample project
+I used formik, yup, react-intl, react-router-dom to create the project
